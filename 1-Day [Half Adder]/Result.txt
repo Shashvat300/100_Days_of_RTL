@@ -1,0 +1,14 @@
+xcelium> source /xcelium20.09/tools/xcelium/files/xmsimrc
+xcelium> run
+Value of A=0 B==0 Output S=0 C=0    Time=0
+Value of A=0 B==1 Output S=1 C=0    Time=2
+Value of A=1 B==0 Output S=1 C=0    Time=4
+Value of A=1 B==1 Output S=0 C=1    Time=6
+Simulation complete via $finish(1) at time 10 NS + 0
+./testbench.sv:27       #10 $finish;
+xcelium> exit
+TOOL:	xrun	20.09-s003: Exiting on Apr 18, 2023 at 12:46:27 EDT  (total: 00:00:01)
+Finding VCD file...
+./dump.vcd
+[2023-04-18 12:46:27 EDT] Opening EPWave...
+Done
