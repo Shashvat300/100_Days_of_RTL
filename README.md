@@ -7,4 +7,6 @@ WELCOME TO MY 100DAYSOFRTL
 Hello! My Name is Shashvat Maurya, I mostly use EDA Playground for the simulation of RTL Codes.
 
 
+# Here is the list of Day wise RTL Codes:-
+
 Day-1 Half Adder  https://www.edaplayground.com/x/KYWb
