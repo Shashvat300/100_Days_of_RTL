@@ -10,3 +10,4 @@ Hello! My Name is Shashvat Maurya, I mostly use EDA Playground for the simulatio
 # Here is the list of Day wise RTL Codes:-
 
 Day-1 Half Adder  https://www.edaplayground.com/x/KYWb
+Day-2 3-Bit Asynchronous Up Counter   https://www.edaplayground.com/x/siCt
