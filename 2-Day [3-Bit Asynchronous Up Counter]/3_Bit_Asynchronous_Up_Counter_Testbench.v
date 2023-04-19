@@ -5,7 +5,7 @@
 
 module tb_uc();
   
-  wire [3:0] COUNT;
+  wire [2:0] COUNT;
   reg CLK,RESET;
   
   up_counter inst(.clk(CLK),.reset(RESET),.count(COUNT));
