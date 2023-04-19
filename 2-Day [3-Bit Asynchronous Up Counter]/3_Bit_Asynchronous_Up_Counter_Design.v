@@ -5,7 +5,7 @@
 
 module up_counter(count,clk,reset);
   
-  output reg [3:0] count;
+  output reg [2:0] count;
   input clk,reset;
   
   always @(negedge clk)
