@@ -32,3 +32,5 @@ Day-1 Half Adder  https://www.edaplayground.com/x/KYWb
 Day-2 3-Bit Asynchronous Up Counter   https://www.edaplayground.com/x/siCt
 
 Day-3 3-Bit Asynchronous Down Counter   https://www.edaplayground.com/x/KZt9
+
+Dat-4 MOD-6 Counter   https://www.edaplayground.com/x/hQJU
