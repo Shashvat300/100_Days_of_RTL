@@ -40,3 +40,5 @@ Day-5 3to1 Multiplexer   https://www.edaplayground.com/x/WceP
 Day-6 Johnson Counter   https://www.edaplayground.com/x/Kfkz
 
 Day-7 4-Bit Comparator   https://www.edaplayground.com/x/Tihd
+
+Day-8 Ring Counter   https://www.edaplayground.com/x/rEwN
