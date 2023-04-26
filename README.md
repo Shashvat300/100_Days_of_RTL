@@ -42,3 +42,7 @@ Day-6 Johnson Counter   https://www.edaplayground.com/x/Kfkz
 Day-7 4-Bit Comparator   https://www.edaplayground.com/x/Tihd
 
 Day-8 Ring Counter   https://www.edaplayground.com/x/rEwN
+
+Day-9 4-Bit Asynchronous UpDown Counter   https://www.edaplayground.com/x/b5x8
+
+Day-10 8to3 Encoder   https://www.edaplayground.com/x/896G
