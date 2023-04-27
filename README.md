@@ -46,3 +46,5 @@ Day-8 Ring Counter   https://www.edaplayground.com/x/rEwN
 Day-9 4-Bit Asynchronous UpDown Counter   https://www.edaplayground.com/x/b5x8
 
 Day-10 8to3 Encoder   https://www.edaplayground.com/x/896G
+
+Day-11 Clock Divider   https://www.edaplayground.com/x/jfwx
