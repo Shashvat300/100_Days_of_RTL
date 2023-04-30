@@ -49,4 +49,6 @@ Day-10 8to3 Encoder   https://www.edaplayground.com/x/896G
 
 Day-11 Clock Divider   https://www.edaplayground.com/x/jfwx
 
-Day-12 PIPO(Parallel In Parallel Out ) Shift Register   https://www.edaplayground.com/x/wfHh
+Day-12 Parallel In Parallel Out (PIPO) Shift Register   https://www.edaplayground.com/x/wfHh
+
+Day-13. Serial In Parallel Out (SIPO) Shift Rregister   https://www.edaplayground.com/x/a4VY
