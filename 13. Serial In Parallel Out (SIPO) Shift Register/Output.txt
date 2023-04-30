@@ -1,0 +1,23 @@
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09; Runtime version S-2021.09;  Apr 30 04:25 2023
+CLK=1 A_IN=x   RESET=0000 TIME=0
+CLK=0 A_IN=x   RESET=x000 TIME=2
+CLK=1 A_IN=1   RESET=x000 TIME=4
+CLK=0 A_IN=1   RESET=1x00 TIME=6
+CLK=1 A_IN=0   RESET=1x00 TIME=8
+CLK=0 A_IN=0   RESET=01x0 TIME=10
+CLK=1 A_IN=1   RESET=01x0 TIME=12
+CLK=0 A_IN=1   RESET=101x TIME=14
+CLK=1 A_IN=1   RESET=101x TIME=16
+CLK=0 A_IN=1   RESET=1101 TIME=18
+$finish called from file "testbench.sv", line 40.
+$finish at simulation time                   20
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 20 ns
+CPU Time:      0.460 seconds;       Data structure size:   0.0Mb
+Sun Apr 30 04:25:10 2023
+Finding VCD file...
+./dump.vcd
+[2023-04-30 04:25:11 EDT] Opening EPWave...
+Done
