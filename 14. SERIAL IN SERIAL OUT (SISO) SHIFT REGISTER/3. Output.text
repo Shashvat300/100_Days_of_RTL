@@ -1,0 +1,31 @@
+CPU time: .315 seconds to compile + .388 seconds to elab + .399 seconds to link
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09; Runtime version S-2021.09;  May  4 07:33 2023
+CLK=0 A_IN=0  OUT=x  TIME=0
+CLK=1 A_IN=0  OUT=x  TIME=2
+CLK=0 A_IN=1  OUT=x  TIME=4
+CLK=1 A_IN=1  OUT=x  TIME=6
+CLK=0 A_IN=1  OUT=x  TIME=8
+CLK=1 A_IN=1  OUT=x  TIME=10
+CLK=0 A_IN=0  OUT=0  TIME=12
+CLK=1 A_IN=0  OUT=0  TIME=14
+CLK=0 A_IN=0  OUT=1  TIME=16
+CLK=1 A_IN=0  OUT=1  TIME=18
+CLK=0 A_IN=0  OUT=1  TIME=20
+CLK=1 A_IN=0  OUT=1  TIME=22
+CLK=0 A_IN=0  OUT=0  TIME=24
+CLK=1 A_IN=0  OUT=0  TIME=26
+CLK=0 A_IN=0  OUT=0  TIME=28
+CLK=1 A_IN=0  OUT=0  TIME=30
+CLK=0 A_IN=0  OUT=0  TIME=32
+CLK=1 A_IN=0  OUT=0  TIME=34
+CLK=0 A_IN=0  OUT=0  TIME=36
+CLK=1 A_IN=0  OUT=0  TIME=38
+$finish called from file "testbench.sv", line 38.
+$finish at simulation time                   40
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 40 ns
+CPU Time:      0.680 seconds;       Data structure size:   0.0Mb
+Thu May  4 07:33:15 2023
+Done
