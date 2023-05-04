@@ -53,4 +53,5 @@ Day-12 Parallel In Parallel Out (PIPO) Shift Register   https://www.edaplaygroun
 
 Day-13. Serial In Parallel Out (SIPO) Shift Rregister   https://www.edaplayground.com/x/a4VY
 
-Day-14. SERIAL IN SERIAL OUT SHIFT REGISTER   https://www.edaplayground.com/x/FRyX
+Day-14. Serial In Serial Out (SISO) Shift Register   https://www.edaplayground.com/x/FRyX
+
