@@ -1,7 +1,7 @@
 # 100_Days_of_RTL
 WELCOME TO MY 100DAYSOFRTL Challenge
 
-The "100 days of RTL Challenge" is a self-improvement challenge for digital hardware designers to commit to spending 100 consecutive days working on digital design using Verilog or SystemVerilog to improve their RTL (Register Transfer Level) coding skills. During the challenge, participants set daily goals, work on personal projects, and seek feedback from peers to improve their proficiency in designing robust and efficient digital circuits. The aim of the challenge is to build a strong foundation in digital design and improve career prospects. This challenge requires discipline, perseverance, and dedication to complete successfully
+The "100 days of RTL Challenge" is a self-improvement challenge for digital hardware designers to commit to spending 100 consecutive days working on digital design using Verilog or SystemVerilog to improve their RTL (Register Transfer Level) coding skills. During the challenge, participants set daily goals, work on personal projects, and seek feedback from peers to improve their proficiency in designing robust and efficient digital circuits. The aim of the challenge is to build a strong foundation in digital design and improve career prospects. This challenge requires discipline, perseverance, and dedication to complete successfully.
 
 # Overview:
 The "100 days of RTL Challenge" is a self-improvement challenge for hardware engineers and digital designers to commit to spending 100 consecutive days working on digital design using Verilog or VHDL to improve their RTL (Register Transfer Level) coding skills..
