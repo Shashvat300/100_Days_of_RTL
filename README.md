@@ -58,3 +58,5 @@ Day-14. Serial In Serial Out (SISO) Shift Register   https://www.edaplayground.c
 Day-15. Parallel In Serial Out(PISO) Shift Register    https://www.edaplayground.com/x/wLGV
 
 Day-16. Free Running Shift Regester  https://www.edaplayground.com/x/ne3i
+
+Day-17. D Flip Flop   https://www.edaplayground.com/x/imfK
