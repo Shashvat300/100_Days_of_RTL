@@ -22,7 +22,7 @@ Participants can use a variety of resources to aid their learning, including onl
 To succeed in the Challenge, participants should set achievable daily goals, practice regularly, seek feedback from peers, and document their progress. Participants should also strive to complete their personal projects and seek opportunities to apply their newfound skills in real-world projects.
 
 # Conclusion:
-The "100 days of RTL Challenge" is an excellent opportunity for hardware engineers and digital designers to improve their RTL coding skills and build a strong foundation in digital design. By committing to the challenge and putting in the necessary effort, participants can improve their career prospects and gain a deeper understanding of digital design..
+The "100 days of RTL Challenge" is an excellent opportunity for hardware engineers and digital designers to improve their RTL coding skills and build a strong foundation in digital design. By committing to the challenge and putting in the necessary effort, participants can improve their career prospects and gain a deeper understanding of digital design.
 
 
 # Here is the list of Day wise RTL Codes:-
