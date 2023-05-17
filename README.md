@@ -64,3 +64,5 @@ Day-17. D Flip Flop   https://www.edaplayground.com/x/imfK
 Day-18. Shifter   https://www.edaplayground.com/x/WpN6
 
 Day-19 Swapping   https://www.edaplayground.com/x/ZC6w
+
+Day-20 Traffic Signal Controller(Project)   https://www.edaplayground.com/x/KWp7
