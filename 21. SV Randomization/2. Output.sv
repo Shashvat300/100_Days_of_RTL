@@ -22,7 +22,7 @@ Compiler version S-2021.09; Runtime version S-2021.09;  May 21 11:09 2023
 	 Rndom Value of rand_a= 8 & randc_b=15
 	 Rndom Value of rand_a= 6 & randc_b= 0
            V C S   S i m u l a t i o n   R e p o r t 
-Time: 0 ns
+Time: 0 ns.
 CPU Time:      0.500 seconds;       Data structure size:   0.0Mb
 Sun May 21 11:09:09 2023
 Done
