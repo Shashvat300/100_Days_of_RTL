@@ -66,3 +66,5 @@ Day-18. Shifter   https://www.edaplayground.com/x/WpN6
 Day-19 Swapping   https://www.edaplayground.com/x/ZC6w
 
 Day-20 Traffic Signal Controller(Project)   https://www.edaplayground.com/x/dwvm
+
+Day-21 SV Randomization   https://www.edaplayground.com/x/S7cg
