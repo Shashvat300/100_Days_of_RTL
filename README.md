@@ -69,4 +69,4 @@ Day-20 Traffic Signal Controller(Project)   https://www.edaplayground.com/x/dwvm
 
 Day-21 SV Randomization   https://www.edaplayground.com/x/S7cg
 
-Day-22 1010 Sequence Detector   https://www.edaplayground.com/x/mQLu
+Day-22 1010 Sequence Detector(Overlaping)   https://www.edaplayground.com/x/mQLu
