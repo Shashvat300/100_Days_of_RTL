@@ -68,3 +68,5 @@ Day-19 Swapping   https://www.edaplayground.com/x/ZC6w
 Day-20 Traffic Signal Controller(Project)   https://www.edaplayground.com/x/dwvm
 
 Day-21 SV Randomization   https://www.edaplayground.com/x/S7cg
+
+Day-22 1010 Sequence Detector   https://www.edaplayground.com/x/mQLu
