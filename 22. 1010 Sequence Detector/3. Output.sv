@@ -1,0 +1,111 @@
+CPU time: .233 seconds to compile + .291 seconds to elab + .371 seconds to link
+Chronologic VCS simulator copyright 1991-2021
+Contains Synopsys proprietary information.
+Compiler version S-2021.09; Runtime version S-2021.09;  May 31 13:22 2023
+	 CLK=0 RST=0 IN=0 OUT=0  Time=0
+	 CLK=1 RST=0 IN=0 OUT=0  Time=2
+	 CLK=0 RST=1 IN=0 OUT=0  Time=4
+	 CLK=1 RST=1 IN=0 OUT=0  Time=6
+	 CLK=0 RST=1 IN=1 OUT=0  Time=8
+	 CLK=1 RST=1 IN=1 OUT=0  Time=10
+	 CLK=0 RST=1 IN=0 OUT=0  Time=12
+	 CLK=1 RST=1 IN=0 OUT=0  Time=14
+	 CLK=0 RST=1 IN=1 OUT=0  Time=16
+	 CLK=1 RST=1 IN=1 OUT=0  Time=18
+	 CLK=0 RST=1 IN=0 OUT=1  Time=20
+	 CLK=1 RST=1 IN=0 OUT=0  Time=22
+	 CLK=0 RST=1 IN=1 OUT=0  Time=24
+	 CLK=1 RST=1 IN=1 OUT=0  Time=26
+	 CLK=0 RST=1 IN=0 OUT=1  Time=28
+	 CLK=1 RST=1 IN=0 OUT=0  Time=30
+	 CLK=0 RST=1 IN=1 OUT=0  Time=32
+	 CLK=1 RST=1 IN=1 OUT=0  Time=34
+	 CLK=0 RST=1 IN=0 OUT=1  Time=36
+	 CLK=1 RST=1 IN=0 OUT=0  Time=38
+	 CLK=0 RST=1 IN=1 OUT=0  Time=40
+	 CLK=1 RST=1 IN=1 OUT=0  Time=42
+	 CLK=0 RST=1 IN=0 OUT=1  Time=44
+	 CLK=1 RST=1 IN=0 OUT=0  Time=46
+	 CLK=0 RST=1 IN=1 OUT=0  Time=48
+	 CLK=1 RST=1 IN=1 OUT=0  Time=50
+	 CLK=0 RST=1 IN=0 OUT=1  Time=52
+	 CLK=1 RST=1 IN=0 OUT=0  Time=54
+	 CLK=0 RST=1 IN=1 OUT=0  Time=56
+	 CLK=1 RST=1 IN=1 OUT=0  Time=58
+	 CLK=0 RST=1 IN=0 OUT=1  Time=60
+	 CLK=1 RST=1 IN=0 OUT=0  Time=62
+	 CLK=0 RST=1 IN=0 OUT=0  Time=64
+	 CLK=1 RST=1 IN=0 OUT=0  Time=66
+	 CLK=0 RST=1 IN=0 OUT=0  Time=68
+	 CLK=1 RST=1 IN=0 OUT=0  Time=70
+	 CLK=0 RST=1 IN=0 OUT=0  Time=72
+	 CLK=1 RST=1 IN=0 OUT=0  Time=74
+	 CLK=0 RST=1 IN=0 OUT=0  Time=76
+	 CLK=1 RST=1 IN=0 OUT=0  Time=78
+	 CLK=0 RST=1 IN=0 OUT=0  Time=80
+	 CLK=1 RST=1 IN=0 OUT=0  Time=82
+	 CLK=0 RST=1 IN=0 OUT=0  Time=84
+	 CLK=1 RST=1 IN=0 OUT=0  Time=86
+	 CLK=0 RST=1 IN=0 OUT=0  Time=88
+	 CLK=1 RST=1 IN=0 OUT=0  Time=90
+	 CLK=0 RST=1 IN=0 OUT=0  Time=92
+	 CLK=1 RST=1 IN=0 OUT=0  Time=94
+	 CLK=0 RST=1 IN=0 OUT=0  Time=96
+	 CLK=1 RST=1 IN=0 OUT=0  Time=98
+	 CLK=0 RST=1 IN=0 OUT=0  Time=100
+	 CLK=1 RST=1 IN=0 OUT=0  Time=102
+	 CLK=0 RST=1 IN=0 OUT=0  Time=104
+	 CLK=1 RST=1 IN=0 OUT=0  Time=106
+	 CLK=0 RST=1 IN=0 OUT=0  Time=108
+	 CLK=1 RST=1 IN=0 OUT=0  Time=110
+	 CLK=0 RST=1 IN=0 OUT=0  Time=112
+	 CLK=1 RST=1 IN=0 OUT=0  Time=114
+	 CLK=0 RST=1 IN=0 OUT=0  Time=116
+	 CLK=1 RST=1 IN=0 OUT=0  Time=118
+	 CLK=0 RST=1 IN=0 OUT=0  Time=120
+	 CLK=1 RST=1 IN=0 OUT=0  Time=122
+	 CLK=0 RST=1 IN=0 OUT=0  Time=124
+	 CLK=1 RST=1 IN=0 OUT=0  Time=126
+	 CLK=0 RST=1 IN=0 OUT=0  Time=128
+	 CLK=1 RST=1 IN=0 OUT=0  Time=130
+	 CLK=0 RST=1 IN=0 OUT=0  Time=132
+	 CLK=1 RST=1 IN=0 OUT=0  Time=134
+	 CLK=0 RST=1 IN=0 OUT=0  Time=136
+	 CLK=1 RST=1 IN=0 OUT=0  Time=138
+	 CLK=0 RST=1 IN=0 OUT=0  Time=140
+	 CLK=1 RST=1 IN=0 OUT=0  Time=142
+	 CLK=0 RST=1 IN=0 OUT=0  Time=144
+	 CLK=1 RST=1 IN=0 OUT=0  Time=146
+	 CLK=0 RST=1 IN=0 OUT=0  Time=148
+	 CLK=1 RST=1 IN=0 OUT=0  Time=150
+	 CLK=0 RST=1 IN=0 OUT=0  Time=152
+	 CLK=1 RST=1 IN=0 OUT=0  Time=154
+	 CLK=0 RST=1 IN=0 OUT=0  Time=156
+	 CLK=1 RST=1 IN=0 OUT=0  Time=158
+	 CLK=0 RST=1 IN=0 OUT=0  Time=160
+	 CLK=1 RST=1 IN=0 OUT=0  Time=162
+	 CLK=0 RST=1 IN=0 OUT=0  Time=164
+	 CLK=1 RST=1 IN=0 OUT=0  Time=166
+	 CLK=0 RST=1 IN=0 OUT=0  Time=168
+	 CLK=1 RST=1 IN=0 OUT=0  Time=170
+	 CLK=0 RST=1 IN=0 OUT=0  Time=172
+	 CLK=1 RST=1 IN=0 OUT=0  Time=174
+	 CLK=0 RST=1 IN=0 OUT=0  Time=176
+	 CLK=1 RST=1 IN=0 OUT=0  Time=178
+	 CLK=0 RST=1 IN=0 OUT=0  Time=180
+	 CLK=1 RST=1 IN=0 OUT=0  Time=182
+	 CLK=0 RST=1 IN=0 OUT=0  Time=184
+	 CLK=1 RST=1 IN=0 OUT=0  Time=186
+	 CLK=0 RST=1 IN=0 OUT=0  Time=188
+	 CLK=1 RST=1 IN=0 OUT=0  Time=190
+	 CLK=0 RST=1 IN=0 OUT=0  Time=192
+	 CLK=1 RST=1 IN=0 OUT=0  Time=194
+	 CLK=0 RST=1 IN=0 OUT=0  Time=196
+	 CLK=1 RST=1 IN=0 OUT=0  Time=198
+$finish called from file "testbench.sv", line 59.
+$finish at simulation time                  200
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 200 ns
+CPU Time:      0.480 seconds;       Data structure size:   0.0Mb
+Wed May 31 13:22:38 2023
+Done
